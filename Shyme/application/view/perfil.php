@@ -17,11 +17,11 @@
                         
                         <div class="col-md-2 img-perfil"><img src="" alt="Perfil do usuário" /></div> <!-- banco -->
                         <div class="col-md-6 usr-info">
-                            <h2>Nome de usuário</h2> <!-- banco -->
-                            <h3>Curso: </h3> <!-- banco -->
+                            <h2>*Nome de usuário*</h2> <!-- banco -->
+                            <h3>*Curso:*</h3> <!-- banco -->
                         </div>
                         
-                        <div class="col-md-1 pts-usr"><p>pontos: 20</p></div><!-- banco -->
+                        <div class="col-md-1 pts-usr"><p>*pontos: 20*</p></div><!-- banco -->
                     </div>    
                     
                 </div>    
@@ -31,9 +31,9 @@
 
                 <div class="col-md-offset-1 col-md-2 usr-grp">
                     <ul> <!-- lista de grupos -->
-                       <li>Fatec</li>
-                       <li>ADS</li> 
-                       <li>Shyme</li> 
+                       <li>*Fatec*</li>
+                       <li>*ADS*</li> 
+                       
                     </ul>
                 </div>
                     
@@ -43,18 +43,18 @@
                     <div class="div-comunicado">
                         <h3>Comunicados</h3>
                         <div> <!-- loop para gerar os comunicados -->
-                            <a href="#"><h4>Titulo comunicado 1</h4></a>
-                            <p>Descrição</p>
+                            <a href="#"><h4>*Titulo comunicado 1*</h4></a>
+                            <p>*Descrição*</p>
                         </div>
                         
                         <div>
-                            <a href="#"><h4>Titulo comunicado 2</h4></a>
-                            <p>Descrição</p>
+                            <a href="#"><h4>*Titulo comunicado 2*</h4></a>
+                            <p>*Descrição*</p>
                         </div> 
                         
                         <div>
-                            <a href="#"><h4>Titulo comunicado 3</h4></a>
-                            <p>Descrição</p>
+                            <a href="#"><h4>*Titulo comunicado 3*</h4></a>
+                            <p>*Descrição*</p>
                         </div> <!-- fim do loop -->
                     </div>
                     
@@ -63,18 +63,18 @@
                         <!-- Noticias -->
                         <h3>Mais avaliadass</h3>
                         <div> <!-- loop para gerar os comunicados -->
-                            <a href="#"><h4>Titulo noticia 1</h4></a>
-                            <p>Descrição</p>
+                            <a href="#"><h4>*Titulo noticia 1*</h4></a>
+                            <p>*Descrição*</p>
                         </div>
                         
                         <div>
-                            <a href="#"><h4>Titulo noticia 2</h4></a>
-                            <p>Descrição</p>
+                            <a href="#"><h4>*Titulo noticia 2*</h4></a>
+                            <p>*Descrição*</p>
                         </div> 
                         
                         <div>
-                            <a href="#"><h4>Titulo noticia 3</h4></a>
-                            <p>Descrição</p>
+                            <a href="#"><h4>*Titulo noticia 3*</h4></a>
+                            <p>*Descrição*</p>
                         </div> <!-- fim do loop -->
                     
                     </div>
